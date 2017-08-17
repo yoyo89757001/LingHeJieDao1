@@ -4,11 +4,6 @@ import android.app.Activity;
 import android.os.Bundle;
 import java.net.MalformedURLException;
 import java.net.URL;
-
-import android.app.Activity;
-import android.app.AlertDialog;
-import android.content.Context;
-import android.content.DialogInterface;
 import android.content.Intent;
 import android.graphics.PixelFormat;
 import android.net.Uri;
